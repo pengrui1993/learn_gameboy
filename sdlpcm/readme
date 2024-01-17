@@ -1,2 +1,6 @@
 make noise
 ./noise
+
+or
+make data_music
+./data_music
