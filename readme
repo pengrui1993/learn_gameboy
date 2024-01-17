@@ -1,7 +1,7 @@
 learning computer how it works
 
 dep:
-check sdl2 sdl2_ttf cmake make  c++
+check sdl2 sdl2_ttf cmake make  c++ git
 
 repos ref:
 https://github.com/rockytriton/LLD_gbemu
